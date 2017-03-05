@@ -1,5 +1,4 @@
 cffi
-libopus-dev
 build-essential
 unzip
 pip

@@ -1,1 +1,1 @@
-bot: python launcher.py --auto-restart
+bot: python launcher.py

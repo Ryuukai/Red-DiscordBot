@@ -1,5 +1,4 @@
 cffi
-libffi-dev
 libopus-dev
 build-essential
 unzip

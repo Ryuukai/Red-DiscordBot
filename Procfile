@@ -1,1 +1,1 @@
-bot: python red.py
+bot: python launcher.py --auto-restart

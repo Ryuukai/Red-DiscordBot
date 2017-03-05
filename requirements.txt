@@ -1,5 +1,4 @@
 cffi
-libssl-dev
 libffi-dev
 libopus-dev
 build-essential
